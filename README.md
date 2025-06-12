@@ -1,1 +1,1 @@
-Lista 01 - Entrada, saida e Operac ̧oes B  ̃ asicas  ́
+Lista 01 - Entrada, Saída e Operações Básicas
