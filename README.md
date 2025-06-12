@@ -1,1 +1,1 @@
-# Atv1_Media
+Lista 01 - Entrada, saida e Operac ̧oes B  ̃ asicas  ́
